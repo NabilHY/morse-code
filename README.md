@@ -11,11 +11,11 @@ Simple ruby application to decrypt Morse code messages into humes readable enlis
 
 ## Authors
 
-👤 **Author1**
+👤 **NabilHY**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/NabilHY
+- Twitter: https://twitter.com/NeoNabil2
+- LinkedIn: https://www.linkedin.com/in/nabil-hayoun/
 
 
 ## 🤝 Contributing
