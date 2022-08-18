@@ -27,14 +27,14 @@
   '--..' => 'Z'
 }
 
-def decod_char(char) 
+def decod_char(char)
   @morse[char]
 end
 
 def decod_word(word)
   final_word = ''
   word.split.each do |char|
-  final_word += decod_char(char)
+    final_word += decod_char(char)
   end
   final_word
 end
@@ -42,8 +42,8 @@ end
 def decod_sentence(sentence)
   final_message = ''
   sentence.split('  ').each do |word|
-  final_message += decod_word(word)
-  final_message += ' '
+    final_message += decod_word(word)
+    final_message += ''
   end
   final_message.chop
 end
